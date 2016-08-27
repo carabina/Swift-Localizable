@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author       = "CityTaxi"
   s.source       = { :git => "https://github.com/CityTaxi/Swift-Localizable.git", :tag => "0.0.1" }
   s.platform     = :ios, '8.0'
-  s.source_files = 'ContentSwift-Localizable'
+  s.source_files = 'Swift-Localizable'
   s.frameworks   = 'UIKit'
   s.requires_arc = true
 end
