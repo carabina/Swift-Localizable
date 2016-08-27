@@ -1,34 +1,13 @@
 {
     
     "en" : {
-        "service.cancel.notaxis": "Taxi never has been assigned",
-        "user.email" : "Email",
-        "value" : "This is %",
-        "values" : "My name is % and last name %",
-        "keyvalues" : "My name is :name and last name :lastname",
-        "menu.request" : "REQUEST TAXI",
-        "menu.profile" : "PROFILE",
-        "menu.help" : "HELP",
-        "menu.share" : "SHARE CITYTAXI",
-        "menu.rides" : "RIDES HISTORY",
-        "service" : {
-            "cancel" : {
-                "hello" : "Hola mundo"
-            }
-        }
-    },
+        "key" : "Hello world!",
+        "key1" : "Hello mom!"
+        },
     
     "es" : {
-        "service.cancel.notaxis": "El Taxi nunca fue asigado",
-        "user.email" : "Correo electronico",
-        "value" : "Esto es %",
-        "values" : "Mi nombre es % y mi apellido %",
-        "keyvalues" : "Mi nombre es :name y mi apellido :lastname",
-        "menu.request" : "SOLICITAR TAXI",
-        "menu.profile" : "PERFIL",
-        "menu.help" : "AYUDA",
-        "menu.share" : "COMPARTIR CITYTAXI",
-        "menu.rides" : "HISTORIAL DE VIAJES"
+        "key" : "Hola mundo!",
+        "key1" : "Hola mamá"
     }
     
 }
